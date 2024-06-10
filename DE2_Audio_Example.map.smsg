@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at DE2_Audio_Example.v(243): object "RW" differs only in case from object "rw" in the same scope File: C:/Intel/intelFPGA/18.1/org evm/EvmPr/EEPROM_Zvuk/Audio_Demo/DE2_Audio_Example.v Line: 243
+Info (10281): Verilog HDL Declaration information at i2c_eeprom_mastercontroller.v(13): object "ack" differs only in case from object "ACK" in the same scope File: C:/Intel/intelFPGA/18.1/org evm/EvmPr/EEPROM_Zvuk/Audio_Demo/i2c_eeprom_mastercontroller.v Line: 13

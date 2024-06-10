@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLOCK_50'
+Slack : -9.345
+TNS   : -297.965
+
+Type  : Slow 1200mV 85C Model Setup 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : -6.073
+TNS   : -114719.219
+
+Type  : Slow 1200mV 85C Model Setup 'avconf:avc|LUT_INDEX[1]'
+Slack : -3.986
+TNS   : -56.991
+
+Type  : Slow 1200mV 85C Model Setup 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -3.104
+TNS   : -125.793
+
+Type  : Slow 1200mV 85C Model Hold 'CLOCK_50'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.776
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : -1.285
+TNS   : -30874.695
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.285
+TNS   : -74.530
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.622
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -8.608
+TNS   : -269.789
+
+Type  : Slow 1200mV 0C Model Setup 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : -5.582
+TNS   : -103969.322
+
+Type  : Slow 1200mV 0C Model Setup 'avconf:avc|LUT_INDEX[1]'
+Slack : -3.645
+TNS   : -52.605
+
+Type  : Slow 1200mV 0C Model Setup 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -2.760
+TNS   : -111.604
+
+Type  : Slow 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.334
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.734
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : -1.285
+TNS   : -30874.695
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.285
+TNS   : -74.530
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.646
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLOCK_50'
+Slack : -4.464
+TNS   : -124.994
+
+Type  : Fast 1200mV 0C Model Setup 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : -2.753
+TNS   : -47535.129
+
+Type  : Fast 1200mV 0C Model Setup 'avconf:avc|LUT_INDEX[1]'
+Slack : -1.392
+TNS   : -19.270
+
+Type  : Fast 1200mV 0C Model Setup 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.036
+TNS   : -31.205
+
+Type  : Fast 1200mV 0C Model Hold 'avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.090
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLOCK_50'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.219
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'I2C_EEPROM_MasterController:I2C_EEPROM_MasterController_inst0|state.STATE_ACK'
+Slack : -1.000
+TNS   : -24027.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.000
+TNS   : -58.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'avconf:avc|LUT_INDEX[1]'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.370
+TNS   : 0.000
+
+------------------------------------------------------------
